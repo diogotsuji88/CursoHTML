@@ -1,0 +1,8 @@
+.icon {
+	background-image: url("../images/sprite1.png");
+	background-size: 150px auto;
+	background-repeat: no-repeat;
+	background-position: left top;
+	height : 35px;
+	width: 18px;
+}
